@@ -1,0 +1,7 @@
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;}
+body{
+    background-image: url("images/loginback.jpg");
+}
